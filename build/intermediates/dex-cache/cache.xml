@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-591a59a5496828da31a991b38155ef23033b5ed1.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-a7374caf8cbb62d7fb40256d40f2289a101766a8.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-f62aa1e5884a9e5eb0a88e7ae87328589a1bc819.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1-6b5f173f5123d547dd4070ece7018e74552ed550.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-3190d594014ff61ba5e91acdc590650864c5babc.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-f6cf22c7a1226584ccdc91fab75cf7731232407f.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-5ec7febdaa172adf3453c49b168499ffb0660b1a.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-434185aa13b3924ba0790f0f5594b02667646b3b.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-d7d47668395da6c27d6ac27d14ed714c533811c1.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-e0e15a9f9312ef158a34e22906a76131d8e3b9ce.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/QxJNIAndOpenCV/openCVLibrary24131/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="9b78a789d80c6d9cc31b16cc650eaab2ee119503">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-ed53bada7e42cc312696d66eaa1e1effd9f540b8.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-b7d88a2a4ff6328b30e1ca69728b5de247571e87.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-ef72af46357a567ee41de525ff1f54422d87cee7.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/classes-f4ae037e032ab47fc92b717a3b3943c18e668221.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-e5e416f9717066129a331bae99509bdc72bcd3aa.jar" />
+    </item>
+    <item
+        jar="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/xinran/mygithub/QxJNIAndOpenCV/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1-b231331a5f7aa623a3e57a0b75044f227d3ba326.jar" />
+    </item>
+
+</items>

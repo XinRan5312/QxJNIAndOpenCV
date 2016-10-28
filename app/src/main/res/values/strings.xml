@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JNITest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wellcome_words">OpenCV4Android</string>
+</resources>
