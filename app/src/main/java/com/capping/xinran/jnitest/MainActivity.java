@@ -21,6 +21,7 @@ import org.opencv.core.Mat;
 import org.opencv.imgproc.Imgproc;
 
 public class MainActivity  extends Activity {
+
     Button btnProcess;
     Bitmap srcBitmap;
     Bitmap grayBitmap;
