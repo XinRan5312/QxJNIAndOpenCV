@@ -11,6 +11,7 @@ platforms\android-23\android.jar -jni -classpath E:\worspace\msjf\androidReCodes
 ore
 
 单独JNI的使用：
+http://www.cnblogs.com/jymblog/p/5526865.html AndroidStudio使用
 http://blog.csdn.net/sodino/article/details/41946607
 http://www.cnblogs.com/yejiurui/p/3476565.html
 http://www.cnblogs.com/xitang/p/4174619.html  //jni的c也可以调用java中的代码
