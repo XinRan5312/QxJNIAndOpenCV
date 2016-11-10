@@ -4,7 +4,7 @@ http://www.jianshu.com/p/178a2169b7ff //Android Studio NDk调试(基于gradle-ex
 http://www.jianshu.com/p/adae93e3e982  //[Androidstudio]的坑之OpenCV4Android部署
 http://blog.csdn.net/donglynn/article/details/23046925 //OpenCV4Android+JNI开发快速上手入门
 
- 把class文件生成h头
+ 把class文件生成h头：E:\shijue\JniHello\app\src\main>在项目这个路径下执行
 javah -bootclasspath E:\developer\android\android-sdk-windows\
 platforms\android-23\android.jar -jni -classpath E:\worspace\msjf\androidReCodes
 \MinShJinFu\pdfjni\build\intermediates\classes\debug com.fhkg.msjf.pdfjni.MuPDFC
