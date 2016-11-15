@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /Users/xinran/mygithub/QxJNIAndOpenCV/openCVLibrary24131/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: D:\\mygithub\\QxJNIAndOpenCV\\openCVLibrary24131\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

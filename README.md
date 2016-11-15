@@ -24,6 +24,8 @@ abiFilters "armeabi", "armeabi-v7a", "x86"
         }
 这个也不需要了
 
+添加一个很牛的三方ShareSDK：http://bbs.mob.com/thread-22130-1-1.html
+
 
 
  
